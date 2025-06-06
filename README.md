@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ije-Chukwu
-- 👀 I’m currently interested in Machine Learning and AI in Healthcare, particularly in the area of Neurodiversity and Learning disabilities
+- 👀 I’m currently interested in Machine Learning and AI in Healthcare
 - 🌱 I’m currently learning how to collaborate on github
 - 💞️ I’m looking to collaborate on projects that align with my interest
 - 📫 How to reach me (@IjeomaNwac31044 on x)
